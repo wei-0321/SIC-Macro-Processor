@@ -8,9 +8,6 @@ A simple implementation of SIC macro processor, written in python.
 # Requirements 
 (not finished yet)
 
-packages:
-- 
-
 # Usage 
 (not finished yet)
 
@@ -30,7 +27,7 @@ packages:
 ```
 5.Execute the program.
 ```
-> python .py
+> python macro_processor.py
 ```
 
 
