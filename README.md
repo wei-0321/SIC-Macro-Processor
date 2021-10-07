@@ -1,16 +1,14 @@
 # SIC-Macro-Processor
 A simple implementation of SIC macro processor, written in python.
 
-
 # Overview 
 (not finished yet)
 
+
 # Requirements 
-(not finished yet)
+no additional package required.
 
 # Usage 
-(not finished yet)
-
 1.Open git bash. 
 
 2.Change the diretory where you want to do download this repository.
