@@ -30,10 +30,18 @@ no additional package required.
 
 
 # Project Structure
-(not finished yet)
 
 ```
 (Path)                                	(Description)
-SIC-Macro-Processor	                    Main folder     
+SIC-Macro-Processor	                     Main folder     
 │  │
-│  ├ 
+│  ├ macro_processor.py                  Main program
+│  │
+│  ├ input                               input directory
+│  │  │
+│  │  ├ example.txt                      the file you want to process
+│  │
+│  ├ output                              output directory
+│  │  │
+│  │  ├ example_result.txt               output result
+│  │
