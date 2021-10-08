@@ -1,6 +1,5 @@
 import os
 
-
 #路徑處理
 file_name = "MACRO.txt"
 cd = os.getcwd()
