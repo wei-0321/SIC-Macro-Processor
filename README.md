@@ -2,7 +2,6 @@
 A simple implementation of SIC macro processor, written in python.
 
 # Overview 
-(not finished yet)
 
 Below are some demo pictures:
 
