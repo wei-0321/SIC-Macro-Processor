@@ -4,6 +4,16 @@ A simple implementation of SIC macro processor, written in python.
 # Overview 
 (not finished yet)
 
+Below are some demo pictures:
+
+input:
+
+![image](https://user-images.githubusercontent.com/71260071/136701799-5fc5a14e-33a3-4253-8b01-045e6da86ff4.png)
+
+output(result):
+
+![image](https://user-images.githubusercontent.com/71260071/136701842-0a48f04f-90c9-4562-92d5-2ad09b996a39.png)
+
 
 # Requirements 
 no additional package required.
