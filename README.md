@@ -1,5 +1,5 @@
 # SIC-Macro-Processor
-A simple implementation of SIC macro processor, written in python.
+A simple implementation of SIC(Simplified Instructional Computer) macro processor, written in python.
 
 # Overview 
 
