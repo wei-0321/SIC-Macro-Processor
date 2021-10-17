@@ -3,15 +3,15 @@ A simple implementation of SIC(Simplified Instructional Computer) macro processo
 
 # Overview 
 
-Below are some demo pictures:
+Macro expansion.
 
-input:
+Below is a demo picture:
 
-![image](https://user-images.githubusercontent.com/71260071/136701799-5fc5a14e-33a3-4253-8b01-045e6da86ff4.png)
+<pre>
+                    input                                                       output(result)
+</pre>
 
-output(result):
-
-![image](https://user-images.githubusercontent.com/71260071/136701842-0a48f04f-90c9-4562-92d5-2ad09b996a39.png)
+![image](https://user-images.githubusercontent.com/71260071/137640560-52af4f52-7925-4c4e-8c8b-b9ac2a9fe568.png)
 
 
 # Requirements 
